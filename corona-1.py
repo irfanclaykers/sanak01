@@ -4,7 +4,7 @@ os.system('clear')
 print """\033[31m------------------------------------------------------
 \033[00m\033[41m                  CEK CORONA MATI 2020                \033[00m
 \033[31m------------------------------------------------------"""
-print "\033[31m[\033[00m+\033[31m]\033[00m Authour : Sanakkambang01"
+print "\033[31m[\033[00m+\033[31m]\033[00m Authour : Irfanclayker"
 print "\033[31m[\033[00m+\033[31m]\033[00m My Team : Termux Comunity"
 print "\033[31m[\033[00m+\033[31m]\033[00m Github  :\033[32m https://github.com/Sanakkambang01"
 print
